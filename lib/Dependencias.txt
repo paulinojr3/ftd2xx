@@ -1,0 +1,9 @@
+
+
+<<<<<<<
+
+Lib: gtest - Framework da google para testes unitários
+
+https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/
+
+>>>>>>
